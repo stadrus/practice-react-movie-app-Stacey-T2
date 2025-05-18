@@ -1,13 +1,16 @@
-
-
-const selectedGenre = props => {
+// import data from './data/data.json'
+// const [allMovies, setAllMovies] = useState(data.map(obj => {
+//     return {...obj, genre};
+//   })
+// )
+const SelectedGenre = props => {
     let {title, genre} = props.movie;
         return(
-            <div>
+            <div className='movie-genre'>
                 <h3>{title}</h3>
-                <button className="genre" onClick={genre}>Horror</button>
+                <option>{genre};</option>
             </div>
         );
 };
 
-export default selectedGenre; 
+export default SelectedGenre; 
