@@ -1,0 +1,26 @@
+[
+    {   "id": 1,
+        "title": "Alien",
+        "genre": "Horror"
+    },
+    {   "id": 2,
+        "title": "City of God",
+        "genre": "Drama"
+    },
+    {   "id": 3,
+        "title": "The Silence of the Lambs",
+        "genre": "Crime"
+    },
+    {   "id": 4,
+        "title": "12 Angry Men",
+        "genre": "Crime"
+    },
+    {   "id": 5,
+        "title": "A Man called Otto",
+        "genre": "Drama"
+    },
+    {   "id": 6,
+        "title": "Longlegs",
+        "genre": "Horror"
+    }
+]
